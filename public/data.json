@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Maya Lin",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+    "email": "maya.lin@designstudio.io",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": [
+      "college",
+      "close friend",
+      "design"
+    ],
+    "bio": "Met during freshman orientation in architecture studio. Always down for pour-over coffee and museum visits.",
+    "goal": 14,
+    "next_due_date": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Vance",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "email": "mvance@gmail.com",
+    "days_since_contact": 26,
+    "status": "almost due",
+    "tags": [
+      "running club",
+      "neighbor"
+    ],
+    "bio": "Training partner from the Saturday morning 10K group. Works in renewable energy policy.",
+    "goal": 30,
+    "next_due_date": "2026-11-24"
+  },
+  {
+    "id": 3,
+    "name": "Priya Nair",
+    "picture": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=400",
+    "email": "priya.nair@healthbridge.org",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": [
+      "childhood",
+      "close friend"
+    ],
+    "bio": "Known each other since middle school debate team. Pediatric nurse who bakes incredible cardamom buns.",
+    "goal": 21,
+    "next_due_date": "2026-12-06"
+  },
+  {
+    "id": 4,
+    "name": "Devon Brooks",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "email": "devon.brooks@soundwave.co",
+    "days_since_contact": 42,
+    "status": "overdue",
+    "tags": [
+      "music",
+      "former coworker"
+    ],
+    "bio": "Former product teammate who left to tour as a sound engineer. Shares great indie vinyl recommendations.",
+    "goal": 30,
+    "next_due_date": "2026-11-08"
+  },
+  {
+    "id": 5,
+    "name": "Elena Rostova",
+    "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400",
+    "email": "elena.rostova@nordicventures.se",
+    "days_since_contact": 55,
+    "status": "almost due",
+    "tags": [
+      "grad school",
+      "mentorship"
+    ],
+    "bio": "Thesis lab partner in Stockholm. Now leads climate tech investments and visits twice a year.",
+    "goal": 60,
+    "next_due_date": "2026-11-25"
+  },
+  {
+    "id": 6,
+    "name": "Tariq Al-Mansoor",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400",
+    "email": "tariq.mansoor@outlook.com",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": [
+      "climbing",
+      "weekend crew"
+    ],
+    "bio": "Met at the local bouldering gym. Software architect who organizes annual Joshua Tree camping trips.",
+    "goal": 30,
+    "next_due_date": "2026-12-11"
+  },
+  {
+    "id": 7,
+    "name": "Hannah Okafor",
+    "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?w=400",
+    "email": "hannah.okafor@harborpress.com",
+    "days_since_contact": 16,
+    "status": "overdue",
+    "tags": [
+      "book club",
+      "close friend"
+    ],
+    "bio": "Co-founder of our monthly sci-fi book club. Senior editor who always knows the best hidden ramen spots.",
+    "goal": 14,
+    "next_due_date": "2026-11-18"
+  },
+  {
+    "id": 8,
+    "name": "Lucas Meyer",
+    "picture": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=400",
+    "email": "lucas.meyer@kinetixrobotics.de",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": [
+      "hackathon",
+      "tech"
+    ],
+    "bio": "Built an autonomous drone prototype together in 2022. Lives in Munich and loves board game nights.",
+    "goal": 45,
+    "next_due_date": "2027-01-01"
+  }
+]
